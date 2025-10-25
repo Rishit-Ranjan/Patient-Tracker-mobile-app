@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Medicare Shield</string>
+    <string name="patient_portal">Patient Portal</string>
+    <string name="doctor_portal">Doctor Portal</string>
+    <string name="visit_date">Visit Date</string>
+    <string name="disease">Disease</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="patient_name">Patient: %1$s</string>
+    <string name="visit_date_label">Visit Date: %1$s</string>
+    <string name="last_visit_label">Last Visit: %1$s</string>
+    <string name="condition_label">Condition: %1$s</string>
+    <string name="symptoms_label">Symptoms: %1$s</string>
+    <string name="medication_label">Medication: %1$s</string>
+    <string name="notes_label">Notes: %1$s</string>
+    <string name="not_specified">Not specified</string>
+    <string name="no_additional_notes">No additional notes</string>
+    <string name="patient_information">Patient Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="medical_information">Medical Information</string>
+    <string name="disease_condition">Disease/Condition</string>
+    <string name="medication_prescribed">Medication Prescribed</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="search_filters">Search Filters</string>
+    <string name="search_by_disease">Search by Disease</string>
+    <string name="search_by_last_visit">Search by Last Visit</string>
+    <string name="search_by_arrival_date">Search by Arrival Date</string>
+    <string name="search_by_patient_name">Search by Patient Name</string>
+    <string name="search">Search</string>
+    <string name="view_all_records">View All Records</string>
+    <string name="medical_records">Medical Records</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="doctor_login">Doctor Login</string>
+    <string name="patient_login">Patient Login</string>
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
